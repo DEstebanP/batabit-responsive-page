@@ -2,6 +2,9 @@
     width: 810px;
     overflow: hidden;
 }
+.bitcoin-image-container {
+    background-image: url("../assets/img/bitcoinbaby2x.png");
+}
 .features-cards-container {
     display: flex;
     justify-content: center;
