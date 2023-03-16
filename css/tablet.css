@@ -1,0 +1,18 @@
+.main-tables-container--slider {
+    width: 810px;
+    overflow: hidden;
+}
+.features-cards-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 28px;
+    width: 800px;
+}
+.features-cards-container .card {
+    margin: 0;
+}
+.plans-container--slider {
+    justify-content: center;
+    overflow-x: hidden;
+}
